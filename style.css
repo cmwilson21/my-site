@@ -1,7 +1,6 @@
 body {
     text-align: center;
     background: #7ac
-    
   }
   header {
    text-align: center;
@@ -22,7 +21,7 @@ body {
   }
   li {
     display: inline;
-    font-size:20;
+    font-size:20px;
     padding: 0px 10px 0px 10px
   }
   a {
@@ -37,3 +36,4 @@ body {
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
+  }
